@@ -1,1 +1,2 @@
-# QA-Fundamentals
+# Software Technologies Repository  
+Homeworks
