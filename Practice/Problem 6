@@ -1,0 +1,2 @@
+SELECT distinct town from addresses where isCapital is true
+SELECT DISTINCT town FROM addresses WHERE isCapital is TRUE
