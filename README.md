@@ -1,4 +1,4 @@
-# Advanced Programming
+# Software Technologies
 This repo contains my solutions of the tasks and homeworks included in Software Technologies course. 
 
 ## Table of Contents
